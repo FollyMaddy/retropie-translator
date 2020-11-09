@@ -9,6 +9,8 @@ bash translate_setup.sh
 
 still WIP :
 how to run this program together with emulationstation.
+In evaluation statium it can be run like this :
+/home/pi/RetroPie/translate.sh | emulationstation
 
 When using libretro-cores a shader "xbr-lv1-noblend" is preffered for better recognition (but is slow).
 (use hotkey "n" and "m" to change between shaders)
