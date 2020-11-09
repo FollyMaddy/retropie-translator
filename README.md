@@ -1,2 +1,2 @@
 # retropie-translator
-Recognises text and translates from screenshot
+Recognises text and translates from screenshots made during emulating
