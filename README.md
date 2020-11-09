@@ -29,7 +29,7 @@ In evaluation statium it can be run like this :
 
 
 
-Better recognition:
+better recognition:
 
 When using libretro-cores a shader "xbr-lv1-noblend" is preffered for better recognition (but is slow).
 
@@ -38,7 +38,7 @@ When using libretro-cores a shader "xbr-lv1-noblend" is preffered for better rec
 
 
 
-Issues :
+issues :
 
 Google limit, after a while,you get.
 
