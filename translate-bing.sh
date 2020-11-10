@@ -12,7 +12,7 @@
 # Date   : 9/11/2020 
 #
 # Dependancies :
-# tesseract-ocr tesseract-ocr-jpn translate-shell
+# tesseract-ocr tesseract-ocr-jpn translate-shell festival
 #
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
@@ -56,10 +56,12 @@ do
         do
             #recognise japanese charachters (-l jpn)
             tesseract "$files" "$files" -l jpn
-            # output in english (-t en) and play translation over audio (-p)
+            # output in english (-t en) and play translation over audio with festival (-p doesn't work with bing)
             translated=$(trans -e bing -brief -i "$files.txt" -t en)
             echo $translated
+            #generate text to speech file for festival
             echo "(SayText \"$translated\")" > "$files.translation.txt"
+            #speak out the translated text (do not go into interactive mode (-b))
             festival "$files.translation.txt" -b
             #move the files after translation
             mv "$files" "$donedir"; mv "$files.txt" "$donedir"; mv "$files.translation.txt" "$donedir"
