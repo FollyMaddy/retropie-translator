@@ -5,7 +5,7 @@ Recognises Japanese text and translates from screenshots made during emulating
 Default setup uses the "Print Screen key" for making screenshots.
 
 
-
+-
 
 install :
 
@@ -16,7 +16,7 @@ cd retropie-translator
 bash translate_setup.sh
 
 
-
+-
 
 still WIP :
 
@@ -24,10 +24,14 @@ how to run this program together with emulationstation.
 
 In evaluation statium it can be run like this :
 
-/home/pi/RetroPie/translate.sh | emulationstation
+/home/pi/RetroPie/translate-google.sh | emulationstation
+
+or
+
+/home/pi/RetroPie/translate-bing.sh | emulationstation
 
 
-
+-
 
 better recognition:
 
@@ -36,7 +40,7 @@ When using libretro-cores a shader "xbr-lv1-noblend" is preffered for better rec
 (use hotkey "n" and "m" to change between shaders)
 
 
-
+-
 
 issues :
 
