@@ -4,6 +4,12 @@ Recognises Japanese text and translates from screenshots made during emulating
 
 Default setup uses the "Print Screen key" for making screenshots.
 
+Separate script are made for :
+
+X Google-translate
+
+X Bing-translate
+
 
 -
 
