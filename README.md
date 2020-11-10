@@ -57,6 +57,10 @@ Google limit, after a while,you get.
 # update log :
 
 10/11/2020 renamed translate.sh to translate-google.sh
+
 10/11/2020 updated with translate-bing.sh script 
+
 10/11/2020 added dependancy "festival" for the translate-bing.sh script in the translate_setup.sh
+
+
 
