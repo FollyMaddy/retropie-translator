@@ -7,7 +7,7 @@ Default setup uses the "Print Screen key" for making screenshots.
 
 -
 
-install :
+# install :
 
 git clone https://github.com/FollyMaddy/retropie-translator
 
@@ -19,7 +19,7 @@ bash translate_setup.sh
 
 -
 
-still WIP :
+# run the programm (still WIP) :
 
 how to run this program together with emulationstation.
 
@@ -34,7 +34,7 @@ or
 
 -
 
-better recognition:
+# better recognition:
 
 When using libretro-cores a shader "xbr-lv1-noblend" is preffered for better recognition (but is slow).
 
@@ -43,7 +43,7 @@ When using libretro-cores a shader "xbr-lv1-noblend" is preffered for better rec
 
 -
 
-issues :
+# issues :
 
 Google limit, after a while,you get.
 
@@ -54,4 +54,9 @@ Google limit, after a while,you get.
 (too bad)
 
 
+# update log :
+
+10/11/2020 renamed translate.sh to translate-google.sh
+10/11/2020 updated with translate-bing.sh script 
+10/11/2020 added dependancy "festival" for the translate-bing.sh script in the translate_setup.sh
 
