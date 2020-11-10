@@ -6,9 +6,9 @@ Default setup uses the "Print Screen key" for making screenshots.
 
 Separate script are made for :
 
-X Google-translate
+* Google-translate
 
-X Bing-translate
+* Bing-translate
 
 
 -
