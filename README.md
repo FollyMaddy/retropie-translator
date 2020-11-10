@@ -60,7 +60,7 @@ Google limit, after a while,you get.
 
 10/11/2020 updated with translate-bing.sh script 
 
-10/11/2020 added dependancy "festival" for the translate-bing.sh script in the translate_setup.sh
+10/11/2020 added "festival" text to speech synthesizer as dependancy for the translate-bing.sh script in the translate_setup.sh
 
 
 
