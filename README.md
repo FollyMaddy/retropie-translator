@@ -15,6 +15,7 @@ cd retropie-translator
 
 bash translate_setup.sh
 
+(if updated, reinstall with bash translate_setup.sh, things will be adde here)
 
 -
 
