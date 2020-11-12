@@ -2,7 +2,7 @@
 
 While making this, they informed me that there is an official translation part in Retroarch.
 
-So if you want the official solution, go to thread :
+So if you want the official solution, go to this thread :
 
 https://retropie.org.uk/forum/topic/28461/translate-games-on-the-fly
 
