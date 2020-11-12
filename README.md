@@ -1,6 +1,15 @@
 # retropie-translator
 
-Recognises Japanese text and translates from screenshots made during emulating
+While making this, they informed me that there is an official translation part in Retroarch.
+
+So if you want the official solution, go to thread :
+
+https://retropie.org.uk/forum/topic/28461/translate-games-on-the-fly
+
+
+-
+
+This is an exeperiment to recognises Japanese text and translate from screenshots, made during emulating
 
 Default setup uses the "Print Screen key" for making screenshots.
 
@@ -67,6 +76,8 @@ Google limit, after a while,you get.
 10/11/2020 updated with translate-bing.sh script 
 
 10/11/2020 added "festival" text to speech synthesizer as dependancy for the translate-bing.sh script in the translate_setup.sh
+
+12/11/2020 added a forum-link on how to use the original Retroarch transalator.
 
 
 
