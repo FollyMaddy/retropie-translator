@@ -9,7 +9,11 @@ https://retropie.org.uk/forum/topic/28461/translate-games-on-the-fly
 
 -
 
-This is an exeperiment to recognises Japanese text and translate from screenshots, made during emulating
+Here is where I got the idea, you can read from here :
+
+https://retropie.org.uk/forum/topic/28345/old-japanese-computer-appreciation-thread/353
+
+This is an experiment to recognises Japanese text and translate from screenshots, made during emulating.
 
 Default setup uses the "Print Screen key" for making screenshots.
 
@@ -77,7 +81,7 @@ Google limit, after a while,you get.
 
 10/11/2020 added "festival" text to speech synthesizer as dependancy for the translate-bing.sh script in the translate_setup.sh
 
-12/11/2020 added a forum-link on how to use the original Retroarch transalator.
+12/11/2020 added a forum-links about this idea early on and on how to use the original Retroarch transalator.
 
 
 
